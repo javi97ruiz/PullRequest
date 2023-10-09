@@ -1,2 +1,6 @@
 hola javi compañero
+
+hola buenas tardes soy raul fernandez
+
 este es mi segundo pull desde mi rama
+
